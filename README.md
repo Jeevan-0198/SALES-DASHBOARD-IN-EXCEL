@@ -37,7 +37,7 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
 
 ## DASHBOARD
   ![Dashboard](https://github.com/user-attachments/assets/7efca0f8-ad8d-4634-9700-48e19425d7ad)
-  <a href="Sales Dashboard.xlsx"> CLICK HERE FOR INTERACTIVE DASHBOARD</a>
+  <a href="[Sales Dashboard.xlsx](https://github.com/Jeevan-0198/SALES-DASHBOARD-IN-EXCEL/raw/refs/heads/main/Sales%20Dashboard.xlsx)"> CLICK HERE FOR INTERACTIVE DASHBOARD</a>
 ## Project Insights
 ### 1)Top Performing Region
 - The West region has the highest sales value (~38.78L).
