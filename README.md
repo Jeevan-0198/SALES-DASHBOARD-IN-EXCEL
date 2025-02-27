@@ -18,6 +18,12 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
  ### Interactivity Features
  - Slicers for filtering data by salesperson and product.
 ##  Key Questions Answered by the Dashboard
+1)What is the total revenue, profit, and number of units sold?
+2)Which salesperson has the highest and lowest sales?
+3)How do sales compare across different regions (East, West, North, South)?
+4)Which products contribute the most to sales revenue and volume?
+5)What are the sales trends over time for different products?
+6)Which salesperson or region needs improvement in performance?
 
  
 
