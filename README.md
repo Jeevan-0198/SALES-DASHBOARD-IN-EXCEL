@@ -8,7 +8,7 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
  - Includes fields such as Salesperson, Product, Region, Sales Value, Profit, and Units Sold.
 
  ## PROJECT EXPLANATION
-1)Dashboard Components
+   Dashboard Components
 
 -Total Sales, Profit, and Units Sold (Top Summary Metrics).
 -Pie Chart (Regional Sales Distribution) → Shows percentage contribution of each region.
