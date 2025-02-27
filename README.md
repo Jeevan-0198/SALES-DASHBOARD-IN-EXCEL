@@ -57,6 +57,7 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
 
 - Adding month-wise trends to track seasonality.
 - Using Power Query for automated data updates.
+
 This project demonstrates strong data analysis and visualization skills using Excel.
 
  
