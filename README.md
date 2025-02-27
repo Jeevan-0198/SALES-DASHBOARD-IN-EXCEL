@@ -36,6 +36,7 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
 6)Which salesperson or region needs improvement in performance?
 
 ## DASHBOARD
+<a href="Sales Dashboard.xlsx"> CLICK HERE FOR INTERACTIVE DASHBOARD</a>
   ![Dashboard](https://github.com/user-attachments/assets/7efca0f8-ad8d-4634-9700-48e19425d7ad)
 
 ## Project Insights
