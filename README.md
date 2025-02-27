@@ -5,7 +5,7 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
 
 ## DATASETS
  - <a href="Datasets.xlsx">Datasets </a> used here for the Dashboard creation.This Sales data collected from a random YouTube channel.
- Includes fields such as Salesperson, Product, Region, Sales Value, Profit, and Units Sold.
+ - Includes fields such as Salesperson, Product, Region, Sales Value, Profit, and Units Sold.
 
  ## PROJECT EXPLANATION
  
