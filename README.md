@@ -8,6 +8,10 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
  - Includes fields such as Salesperson, Product, Region, Sales Value, Profit, and Units Sold.
 
  ## PROJECT EXPLANATION
+ ### Data cleaning Process
+ - Handling the missing values → Used Excel’s Filter & Conditional Formatting to find missing data.
+ - Removing Duplicates → Ensured that each transaction was unique by checking Salesperson, Product, and Region combinations.
+ - Correcting Inconsistent Data Formats → Use proper function in text,check whether all numbers in number format,Checked that dates (if any) were in proper Date format  
  ### Dashboard Components
 - Total Sales, Profit, and Units Sold (Top Summary Metrics).
 - Pie Chart (Regional Sales Distribution) → Shows percentage contribution of each region.
@@ -17,7 +21,8 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
 - Filters for Salesperson and Product → Allows dynamic selection and filtering of data.
  ### Interactivity Features
  - Slicers for filtering data by salesperson and product.
-##  Key Questions Answered by the Dashboard
+
+##  KEY QUESTIONS ANSWERED BY DASHBOARD
 1)What is the total revenue, profit, and number of units sold? 
 
 2)Which salesperson has the highest and lowest sales?
@@ -29,6 +34,10 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
 5)What are the sales trends over time for different products?
 
 6)Which salesperson or region needs improvement in performance?
+
+## DASHBOARD
+  ![Dashboard](https://github.com/user-attachments/assets/7efca0f8-ad8d-4634-9700-48e19425d7ad)
+
 ## Project Insights
 ### 1)Top Performing Region
 - The West region has the highest sales value (~38.78L).
