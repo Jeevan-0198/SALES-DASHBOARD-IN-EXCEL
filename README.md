@@ -17,6 +17,7 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
 - Filters for Salesperson and Product → Allows dynamic selection and filtering of data.
  ### Interactivity Features
  - Slicers for filtering data by salesperson and product.
+##  Key Questions Answered by the Dashboard
 
  
 
