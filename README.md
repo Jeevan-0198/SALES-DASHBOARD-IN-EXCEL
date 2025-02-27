@@ -31,8 +31,18 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
 6)Which salesperson or region needs improvement in performance?
 ## Project Insights
 ### 1)Top Performing Region
-- The West region has the highest sales value (~38.78L),
+- The West region has the highest sales value (~38.78L).
 - The South region has the lowest sales (~26.61L).
+### 2)Best Salesperson:
+- Cameron has the highest sales (~19.57L).
+- Anna has the lowest sales (~6.78L).
+### 3)Top-Selling Products
+- Sneakers and Tent have the highest sales value (~30L+).
+- Moisturizer has the highest unit sales (~1200+ units).
+- Action Figure and Novel have the lowest sales numbers.
+### 4)Areas for Improvement:
+- Regions like South & North need better sales strategies to improve performance.
+- Salespersons with lower sales (Anna, Andrew) need targeted efforts to improve sales.
 
  
 
