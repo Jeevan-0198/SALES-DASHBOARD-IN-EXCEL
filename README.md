@@ -11,7 +11,7 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
  ### Data cleaning Process
  - Handling the missing values → Used Excel’s Filter & Conditional Formatting to find missing data.
  - Removing Duplicates → Ensured that each transaction was unique by checking Salesperson, Product, and Region combinations.
- - Correcting Inconsistent Data Formats → Use proper function in text,check whether all numbers in number format,Checked that dates (if any) were in proper Date format  
+ - Correcting Inconsistent Data Formats → Use proper function in text,check whether all numbers in number format,Checked that dates (if any) were in proper Date format.
  ### Dashboard Components
 - Total Sales, Profit, and Units Sold (Top Summary Metrics).
 - Pie Chart (Regional Sales Distribution) → Shows percentage contribution of each region.
@@ -52,6 +52,12 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
 ### 4)Areas for Improvement:
 - Regions like South & North need better sales strategies to improve performance.
 - Salespersons with lower sales (Anna, Andrew) need targeted efforts to improve sales.
+## PROJECT CONCLUSION
+  This Sales Dashboard effectively provides clear, visual insights into overall sales performance. By using Excel features like Pivot Tables, Charts, and Slicers, it enables users to interactively filter data and analyze sales trends. Further improvements could include:
+
+- Adding month-wise trends to track seasonality.
+- Using Power Query for automated data updates.
+This project demonstrates strong data analysis and visualization skills using Excel.
 
  
 
