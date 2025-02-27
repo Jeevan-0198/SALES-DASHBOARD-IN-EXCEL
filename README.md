@@ -10,12 +10,12 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
  ## PROJECT EXPLANATION
 1)Dashboard Components:
 
-  -Total Sales, Profit, and Units Sold (Top Summary Metrics).
-  -Pie Chart (Regional Sales Distribution) → Shows percentage contribution of each region.
-  -Bar Chart (Salesperson Performance) → Displays sales by salesperson.
-  -Line Chart (Units Sold by Product) → Identifies sales trends across products.
-  -Bar Chart (Sales Value by Product) → Highlights top-performing products.
-  -Filters for Salesperson and Product → Allows dynamic selection and filtering of data.
+-Total Sales, Profit, and Units Sold (Top Summary Metrics).
+-Pie Chart (Regional Sales Distribution) → Shows percentage contribution of each region.
+-Bar Chart (Salesperson Performance) → Displays sales by salesperson.
+-Line Chart (Units Sold by Product) → Identifies sales trends across products.
+-Bar Chart (Sales Value by Product) → Highlights top-performing products.
+-Filters for Salesperson and Product → Allows dynamic selection and filtering of data.
 2)Interactivity Features:
 
       -Slicers for filtering data by salesperson and product.
