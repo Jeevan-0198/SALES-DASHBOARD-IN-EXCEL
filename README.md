@@ -29,6 +29,10 @@ The objective of this project is to create an interactive Sales Dashboard in Exc
 5)What are the sales trends over time for different products?
 
 6)Which salesperson or region needs improvement in performance?
+## Project Insights
+### 1)Top Performing Region
+- The West region has the highest sales value (~38.78L),
+- The South region has the lowest sales (~26.61L).
 
  
 
